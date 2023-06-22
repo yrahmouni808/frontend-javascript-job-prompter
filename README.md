@@ -46,9 +46,9 @@ console.log(userInput);
   in plaats van "Marketing" of "MARKETING"), dit voorkomt problemen in het script.
 
 * **Opdracht 2b:** tijd voor het echte werk! Op basis van wat de gebruiker invoert ("marketing", "sales" of "customer
-  service") willen wij een beschrijving van die afdeling in de console loggen. Dit doe je in het volgende format:
+  service") willen wij een beschrijving van die afdeling in de console loggen. Hiervoor typ je natuurlijk niet handmatig de beschrijvingen over! Je spreekt ze aan via het `departments`-object: hiervoor zul je dus een *beslissingsstructuur* moeten bouwen. Ongeacht de gekozen afdeling, log je de uitkomst in het volgende format: 
   *"Je koos [ingevoerde keuze]. [beschrijving afdeling]"*
-  Hiervoor typ je natuurlijk niet handmatig de beschrijvingen over. Je spreekt ze aan via het `departments`-object.
+  
 * **Opdracht 2c:** test of alles werkt door alle mogelijke afdelingen een keertje te voeren en te checken of je de
   gewenste output krijgt. Maak jouw beslisboom nu extra gebruiksvriendelijk door de melding *"Ongeldige keuze. Probeer
   het opnieuw door de pagina te verversen."* in de console te laten zien wanneer de gebruiker een spelfout maakt of iets
