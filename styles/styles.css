@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Press+Start+2P&display=swap');
+
+body {
+    font-family: 'Playfair Display', serif;
+    color: #463F3A;
+    background: url("../assets/blob-scene.svg") no-repeat center center fixed;
+    background-size: cover;
+    padding: 20px;
+}
+
+main {
+    max-width: 900px;
+    margin: 100px auto;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 54px;
+    text-shadow: 1px 1px 0 #8A817C;
+    color: #E0AFA0;
+}
+
+#error-message {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 11px;
+    color: #d13202;
+}
