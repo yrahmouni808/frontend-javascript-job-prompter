@@ -41,7 +41,7 @@ console.log(userInput);
 ```
 
 * **Opdracht 2a:** Gebruik bovenstaand voorbeeld en pas het zo aan dat de browser jou de volgende vraag
-  stelt: `Over welke afdeling wil je meer informatie? Kies uit: [Marketing / Sales / Customer Service]`. Het antwoord
+  stelt: `Over welke afdeling wil je meer informatie? Kies uit: [marketing / sales / customer-service]`. Het antwoord
   dat jij invoert, log je uiteraard in de console. *Tip*: geef jouw input-prompt altijd in kleine letters ("marketing"
   in plaats van "Marketing" of "MARKETING"), dit voorkomt problemen in het script.
 
