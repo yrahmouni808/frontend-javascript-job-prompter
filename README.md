@@ -92,7 +92,7 @@ we gebruiken in de tweede prompt afkomstig is van de input uit de *eerste* promp
 uit opdracht 3 dus gaan vervangen door de *input* uit opdracht 2...
 
 * **Opdracht 4a:** Zet alle code uit opdracht 2 weer aan. Comment de code uit opdracht 3 uit. Log de
-  afdeling-beschrijving van de *ingevoerde afdeling uit de prompt* in de console, in het volgende format:
+  afdeling-beschrijving van de ingevoerde afdeling uit de eerste prompt in de console, in het volgende format:
   *"[afdeling-naam] is een leuke afdeling om te werken. Er werken op dit moment [aantal] medewerkers."*
   Tip: gebruik hiervoor de blokhaak notatie.
   Bekijk [hier](https://bobbyhadz.com/blog/javascript-get-object-value-by-variable-key) een voorbeeld van het gebruik
