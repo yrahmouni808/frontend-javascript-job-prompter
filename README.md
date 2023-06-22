@@ -71,7 +71,7 @@ we hebben deze code straks weer nodig, maar we gaan ons nu even richten op het p
   3: [functietitel marketing x]
   ```
 
-  Hierbij typ je de functietitels van Marketing niet handmatig over, maar spreek je ze aan via het `departments`-object.
+  Hierbij typ je de functietitels van Marketing niet handmatig over, maar spreek je ze aan via de `marketing`-property in het `departments`-object.
 
 * **Opdracht 3b:** Op basis van wat de gebruiker invoert (0, 1, 2, of 3) willen wij de beschrijving van de bijbehorende
   marketing-functie-titel en marketing-functie-beschrijving in de console loggen. Dit doe je in het volgende format:
