@@ -131,9 +131,7 @@ maar eens kijken in `index.html`: hierin zie je in totaal vier lege elementen st
   komt te staan. En nu je toch bezig bent kun je ook eens proberen één van de andere tags te vullen met jouw
   lievelingseten. Lukt dat? Comment het dan weer uit, want je zult het op een andere manier gaan toepassen.
 
-* **Opdracht 5b:** Vervang alle plekken waar je console.log's hebt gebruikt om output weer te geven door statements die
-  ervoor zorgen dat diezelfde tekst in één van de elementen op de pagina komt te staan. Indien de gebruiker "marketing"
-  en "0" heeft ingevoerd, wordt het volgende weergegeven op de pagina:
+* **Opdracht 5b:** Voeg op alle plekken waar je console.log's hebt gebruikt deze statements toe om output weer te geven in de juiste elementen. Indien de gebruiker "marketing" en "0" heeft ingevoerd, wordt het volgende weergegeven op de pagina:
 
 ```html
 
