@@ -107,6 +107,9 @@ uit opdracht 3 dus gaan vervangen door de *input* uit opdracht 2...
   `2: [functietitel afdeling x], `
   `3: [functietitel afdeling x]`
 
+* **Opdracht 4c:** Doe dit vervolgens ook voor de beslisboom. In plaats van overal hardcoded de afdeling 'marketing' te gebruiken, zorg je dat de afdeling-naam gebruikt wordt die de gebruiker heeft ingevoerd. Dus als de gebruiker eerst 'sales' koos en daarna '2', krijgt de gebruiker informatie over de functie Verkoopmanager te zien.
+
+
 ### Opdracht 5 - bonus
 
 Alles in de console loggen is leuk, maar een 'normale' gebruiker zal er niet aan denken om deze te openen. De webpagina
