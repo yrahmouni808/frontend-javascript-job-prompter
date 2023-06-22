@@ -9,6 +9,8 @@ functies binnen hun bedrijf. _Automatiseren kun je leren!_ Om de informatie zo g
 input van de gebruiker vragen om zo informatie over de juiste afdeling en functie te verschaffen. Dit doe je op basis
 van de grote dataverzameling aan bedrijfsinformatie genaamd `departments` (te vinden in `main.js`).
 
+![screen-gif-prompter.gif](assets/screen-gif-prompter.gif)
+
 ## Voor je begint
 
 1. Koppel het script aan de HTML-pagina door onderaan de body de volgende tag te
