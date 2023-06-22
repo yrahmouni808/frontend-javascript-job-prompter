@@ -65,10 +65,10 @@ we hebben deze code straks weer nodig, maar we gaan ons nu even richten op het p
 
   ```shell
   Je koos marketing. Over welke functie wil je meer weten? Voer een getal tussen 0 en 3 in.
-  0: [functietitel marketing x],
-  1: [functietitel marketing x],
-  2: [functietitel marketing x],
-  3: [functietitel marketing x]
+  0: [functietitel marketing 0],
+  1: [functietitel marketing 1],
+  2: [functietitel marketing 2],
+  3: [functietitel marketing 3]
   ```
 
   Hierbij typ je de functietitels van Marketing niet handmatig over, maar spreek je ze aan via de `marketing`-property in het `departments`-object.
