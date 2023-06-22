@@ -28,7 +28,7 @@ van de grote dataverzameling aan bedrijfsinformatie genaamd `departments` (te vi
   Marketing is een leuke afdeling om te werken. [beschrijving]."*
 * **Opdracht 1c:** Log het aantal medewerkers van de customer-service-afdeling in de console, in het volgende format: *"De afdeling Customer Service heeft [aantal] medewerkers"* Let op: er is iets raars aan de hand met deze property!
 * **Opdracht 1d:** Log de beschrijving van de functie "Verkoopmanager" in de console, in het volgende format: *"Sales is
-  een uitdagende afdeling om te werken als Verkoopmanager. [beschrijving]"*
+  een uitdagende afdeling om te werken als Verkoopmanager. [beschrijving functie Verkoopmanager]"*
 
 ### Opdracht 2 - prompten en beslissen
 
