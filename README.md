@@ -73,13 +73,12 @@ we hebben deze code straks weer nodig, maar we gaan ons nu even richten op het p
 
   Hierbij typ je de functietitels van Marketing niet handmatig over, maar spreek je ze aan via de `marketing`-property in het `departments`-object.
 
-* **Opdracht 3b:** Op basis van wat de gebruiker invoert (0, 1, 2, of 3) willen wij de beschrijving van de bijbehorende
+* **Opdracht 3b:** Op basis van wat de gebruiker invoert (`0`, `1`, `2`, of `3`) willen wij de beschrijving van de bijbehorende
   marketing-functie-titel en marketing-functie-beschrijving in de console loggen. Dit doe je in het volgende format:
  
   *"Je koos [titel ingevoerde marketing functie]. Een uitdagende rol! [beschrijving ingevoerde marketing functie]"*
 
-  *Tip:* houdt er rekening mee dat ondanks dat de gebruiker een getal invoert, dit altijd terugkomt als de string-versie
-  van dat getal. `3` is namelijk iets anders dan `"3"`
+  Hiervoor zul je dus een beslissingsstructuur moeten bouwen. *Tip:* houdt er rekening mee dat ondanks dat de gebruiker een getal invoert, dit vanuit een prompt altijd terugkomt als de string-versie van dat getal. `3` is namelijk iets anders dan `"3"`
 
 * **Opdracht 3c:** test of alles werkt door alle mogelijke getallen een keertje te voeren in de prompt en te checken of
   je de gewenste output krijgt. Maak jouw beslisboom nu extra gebruiksvriendelijk door de melding *"Ongeldige keuze.
