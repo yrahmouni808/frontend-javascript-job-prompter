@@ -52,7 +52,7 @@ console.log(userInput);
 * **Opdracht 2c:** test of alles werkt door alle mogelijke afdelingen een keertje te voeren en te checken of je de
   gewenste output krijgt. Maak jouw beslisboom nu extra gebruiksvriendelijk door de melding *"Ongeldige keuze. Probeer
   het opnieuw door de pagina te verversen."* in de console te laten zien wanneer de gebruiker een spelfout maakt of iets
-  verkeerds invoert.
+  verkeerds invoert. *Tip:* je kunt hiervoor `console.error()` gebruiken in plaats van `console.log()`.
 
 ### Opdracht 3 - een nieuwe prompt
 
@@ -84,7 +84,7 @@ we hebben deze code straks weer nodig, maar we gaan ons nu even richten op het p
 * **Opdracht 3c:** test of alles werkt door alle mogelijke getallen een keertje te voeren in de prompt en te checken of
   je de gewenste output krijgt. Maak jouw beslisboom nu extra gebruiksvriendelijk door de melding *"Ongeldige keuze.
   Probeer het opnieuw door de pagina te verversen."* in de console te laten zien wanneer de gebruiker iets anders
-  invoert dan 0 - 3. Tip: je kunt hiervoor `console.error()` gebruiken in plaats van `console.log`.
+  invoert dan 0 - 3.
 
 ### Opdracht 4 - samenvoegen
 
